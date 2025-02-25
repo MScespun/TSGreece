@@ -5,6 +5,7 @@
 
 ## 📌 Overview
 This project analyzes historical energy consumption data in Greece and forecasts future demand using statistical and machine learning methods. The dataset spans **16 years** (2008-2024) with **monthly energy consumption data (GWh)** sourced from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/ei_isen_m__custom_14777876/default/table?lang=en).
+More details in the pdf report (in Italian).
 
 ## 📂 Repository Structure
 - **📄 `tabella`** → Contains the dataset used for analysis.
