@@ -1,0 +1,11 @@
+HW diretto add: alpha: 0.5239, beta: 0.0423, gamma: 0.0453
+HW diretto mol: alpha: 0.6061, beta: 0.0001, gamma: 0.0875
+Grid research additiva err:  errore:  1184743.8115841409 alpha:  0.1 beta 0.0423 gamma 0.0453
+
+Grid research mult err:  1445627.3811780352 alpha:  0.1 beta 0.0001 gamma 0.6
+
+Modello autoregressivo ridotto (yw) - errore: 39401692.3561
+Modello autoregressivo OLS - errore: 1885286.4274
+
+HW additivo - errore: 1184743.8116
+HW moltiplicativo- errore: 1445627.3812
