@@ -51,6 +51,7 @@ This project analyzes historical energy consumption data in Greece and forecasts
 
 ## 📊 Results
 <p align="center">
-  <img src="final.png" alt="Descrizione" />
+  <img src="pred1.png" alt="Descrizione" />
+  <img src="pred2.png" alt="Descrizione" />
 </p>
 
